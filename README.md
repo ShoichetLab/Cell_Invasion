@@ -29,7 +29,7 @@ Z-stack, recommeneded imaging increments: 20 um
 - Save Beads and Cells in their own individual folders for use in MATLAB analysis (example below)
 
 3. Matlab Analysis
-- Open ImagingScript.m 
+- Open InvasionScript.m 
 - Run the script
     - A module should open
     - Select file folder containing beads
