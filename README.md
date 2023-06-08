@@ -1,5 +1,8 @@
 # Cell_Invasion
-This project provides a script to determine depth of invasion of cells into a 3D hydrogel based on a surface parabola
+This project provides a script to determine depth of invasion of cells into a 3D hydrogel based on a surface parabola.
+Recreates the analysis performed in the following publications:
+- Bahlmann et. al., Gelatin-Hyaluronan Click-Crosslinked Cryogels Elucidate Human Macrophage Invasion Behavior, Advanced Functional Materials, 2021, DOI: 10.1002/adfm.202008400
+- Smith and Skirzynska et. al., Engineered In Vitro Tumour Model Recapitulates Molecular Signatures of Invasion in Glioblastoma, Under Review
 
 # Setup and Installation
 Download all .m files and save in the same file directory
